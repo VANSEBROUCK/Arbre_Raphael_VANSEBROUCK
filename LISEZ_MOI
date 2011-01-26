@@ -1,0 +1,59 @@
+LISEZ-MOI
+=========
+
+LANGUAGE : 
+__________
+
+La présentation de l'application se fait en français, toutes les personnes concernées par sa maintenance seront françaises.
+
+
+BUT :
+_____
+
+L'application a pour but de présenter une application généalogique.
+
+
+MOYEN :
+_______
+
+Le Framework "Symphonie 2" sera employé pour la structurer. Le gestionnaire de versions "git" supportera toutes ses modifications.
+
+
+DEMARCHE :
+__________
+
+Le développement de l'application se fera en "open source" avec autant que possible la livraison de tutoriaux pour accompagner pédagogiquement la démarche, et participer aux travaux du groupe des codeurs sociaux.
+Une attention sera portée à la possibilité de publication de la version qui sera 'pushée', sur le localhost (par WAMP donc sur la base de windows). 
+
+
+PROCEDURE D'INSTALLATION :
+___________________________
+
+Avant d'installer la version 2 de Symfony, un compte et un Dépôt public ont été demandé à "Github.com" pour pouvoir y tracer sa mise en place. 
+
+1/ Pour éviter de refaire un tutoriel qui a été déjà fait lancer la vidéo à l'adresse :
+http://www.dailymotion.com/video/xf22vs_tutoriel-video-utiliser-github_lifestyle  
+
+Dans ce tutoriel il y a l'illustration des éléments les plus importants
+
+a/ de l'adresse :
+https://github.com/plans
+Répondre à la question (en tête de page):
+Would you rather see this site in French? (Préféreriez-vous voir ce site en Français?)
+Par le bouton :
+Yes (Oui) 
+En cliquant sur "Prix et inscription"
+Puis "Créer un compte gratuit"
+Et suivre les indications d'identification.
+
+b/ Une fois le compte créé
+À coté de : Vos dépôts (0)
+Cliquer sur "Nouveau dépôt".
+Suivre les indications du dépôt.
+
+c/Installer la dernière version de msysgit à la page:
+http://code.google.com/p/msysgit/downloads/list
+Lors de l'installation cliquer sur les options "git GUI here" et "git Bash here", de manière à avoir ces commande sur le menu contextuel (clic droit) des répertoires.
+
+2/ Les répertoires de la "sandbox" de Symfony2 seront mis dans le répertoire correspondant à l'application : "Arbre_Raphael_VANSEBROUCK"
+
