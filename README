@@ -1,4 +1,127 @@
 README
+For the English-speaking persons, I ask you to translate the message of introduction this below: " LISEZ_MOI ". 
+
+LISEZ-MOI
+=========
+
+
+LANGUAGE : 
+__________
+
+La presentation de l'application se fait en français, toutes les personnes concernees par sa maintenance seront françaises.
+Le caractere obligatoire du titre du fichier d'introduction : "README" m'oblige à utiliser ce fichier. 
+Pour qu'il n'y en ait qu'un seul j'utilise le "README" du bac à sable de Symfony2 qui sera à la fin de ce fichier.
+
+
+BUT :
+_____
+
+L'application a pour but de presenter une application genealogique.
+
+
+
+MOYEN :
+_______
+
+Le Framework "Symphonie 2" sera employe pour la structurer. 
+Le gestionnaire de versions "git" supportera toutes ses modifications.
+
+
+
+DEMARCHE :
+__________
+
+Le developpement de l'application se fera en "open source". Avec autant que possible la livraison de tutoriaux pour accompagner pedagogiquement la demarche, et participer aux travaux du groupe des codeurs sociaux.
+Une attention sera portee à la possibilite de publication de la version qui sera 'poussee', sur le localhost (par WAMP donc sur la base de windows). 
+
+
+PROCEDURE D'INSTALLATION :
+___________________________
+
+Avant d'installer la version 2 de Symfony, un compte et un Depot public ont ete demande à "Github.com" pour pouvoir y tracer sa mise en place. 
+
+1/ Pour eviter de refaire un tutoriel qui a ete dejà fait lancer la video à l'adresse :
+http://www.grafikart.fr/tutoriels/git-github-131/  
+
+Dans ce tutoriel il y a l'illustration des elements les plus importants
+
+a/ de l'adresse :
+https://github.com/plans/
+Repondre à la question (en tete de page):
+Would you rather see this site in French? (Prefereriez-vous voir ce site en Français?)
+Par le bouton :
+Yes (Oui) 
+En cliquant sur "Prix et inscription"
+Puis "Creer un compte gratuit"
+Et suivre les indications d'identification.
+
+b/ Une fois le compte cree
+À cote de : Vos depôts (0)
+Cliquer sur "Nouveau depôt".
+Suivre les indications du depôt.
+
+c/Installer la derniere version de msysgit à la page:
+http://code.google.com/p/msysgit/downloads/list/
+Lors de l'installation cliquer sur les options "git GUI here" et "git Bash here", de maniere à avoir ces commande sur le menu contextuel (clic droit) des repertoires.
+
+2/ Les repertoires de la "sandbox" de Symfony2 seront mis dans le repertoire correspondant à l'application : "Arbre_Raphael_VANSEBROUCK"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+README
 ======
 
 What is Symfony?
