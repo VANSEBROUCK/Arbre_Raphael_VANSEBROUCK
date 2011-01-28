@@ -8,9 +8,9 @@ LISEZ-MOI
 LANGUAGE : 
 __________
 
-La presentation de l'application se fait en français, toutes les personnes concernees par sa maintenance seront françaises.
-Le caractere obligatoire du titre du fichier d'introduction : "README" m'oblige à utiliser ce fichier. 
-Pour qu'il n'y en ait qu'un seul j'utilise le "README" du bac à sable de Symfony2 qui sera à la fin de ce fichier.
+La presentation de l'application se fait en francais, toutes les personnes concernees par sa maintenance seront francaises.
+Le caractere obligatoire du titre du fichier d'introduction : "README" m'oblige a utiliser ce fichier. 
+Pour qu'il n'y en ait qu'un seul j'utilise le "README" du bac a sable de Symfony2 qui sera a la fin de ce fichier.
 
 
 BUT :
@@ -32,23 +32,23 @@ DEMARCHE :
 __________
 
 Le developpement de l'application se fera en "open source". Avec autant que possible la livraison de tutoriaux pour accompagner pedagogiquement la demarche, et participer aux travaux du groupe des codeurs sociaux.
-Une attention sera portee à la possibilite de publication de la version qui sera 'poussee', sur le localhost (par WAMP donc sur la base de windows). 
+Une attention sera portee a la possibilite de publication de la version qui sera 'poussee', sur le localhost (par WAMP donc sur la base de windows). 
 
 
 PROCEDURE D'INSTALLATION :
 ___________________________
 
-Avant d'installer la version 2 de Symfony, un compte et un Depot public ont ete demande à "Github.com" pour pouvoir y tracer sa mise en place. 
+Avant d'installer la version 2 de Symfony, un compte et un Depot public ont ete demande a "Github.com" pour pouvoir y tracer sa mise en place. 
 
-1/ Pour eviter de refaire un tutoriel qui a ete dejà fait lancer la video à l'adresse :
+1/ Pour eviter de refaire un tutoriel qui a ete deja fait lancer la video a l'adresse :
 http://www.grafikart.fr/tutoriels/git-github-131/  
 
 Dans ce tutoriel il y a l'illustration des elements les plus importants
 
 a/ de l'adresse :
 https://github.com/plans/
-Repondre à la question (en tete de page):
-Would you rather see this site in French? (Prefereriez-vous voir ce site en Français?)
+Repondre a la question (en tete de page):
+Would you rather see this site in French? (Prefereriez-vous voir ce site en Francais?)
 Par le bouton :
 Yes (Oui) 
 En cliquant sur "Prix et inscription"
@@ -56,15 +56,15 @@ Puis "Creer un compte gratuit"
 Et suivre les indications d'identification.
 
 b/ Une fois le compte cree
-À cote de : Vos depôts (0)
-Cliquer sur "Nouveau depôt".
-Suivre les indications du depôt.
+a cote de : Vos depots (0)
+Cliquer sur "Nouveau depot".
+Suivre les indications du depot.
 
-c/Installer la derniere version de msysgit à la page:
+c/Installer la derniere version de msysgit a la page:
 http://code.google.com/p/msysgit/downloads/list/
-Lors de l'installation cliquer sur les options "git GUI here" et "git Bash here", de maniere à avoir ces commande sur le menu contextuel (clic droit) des repertoires.
+Lors de l'installation cliquer sur les options "git GUI here" et "git Bash here", de maniere a avoir ces commande sur le menu contextuel (clic droit) des repertoires.
 
-2/ Les repertoires de la "sandbox" de Symfony2 seront mis dans le repertoire correspondant à l'application : "Arbre_Raphael_VANSEBROUCK"
+2/ Les repertoires de la "sandbox" de Symfony2 seront mis dans le repertoire correspondant a l'application : "Arbre_Raphael_VANSEBROUCK"
 
 
 
