@@ -22,7 +22,7 @@ class AppKernel extends Kernel
 
             // register your bundles
             new Application\HelloBundle\HelloBundle(),
-			//new Bundle\MenuBundle\MenuBundle(),
+			new Bundle\MenuBundle\MenuBundle(),
         );
 
         if ($this->isDebug()) {

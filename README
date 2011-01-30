@@ -31,8 +31,8 @@ Le gestionnaire de versions "git" supportera toutes ses modifications.
 DEMARCHE :
 __________
 
-Le developpement de l'application se fera en "open source". Avec autant que possible la livraison de tutoriaux pour accompagner pedagogiquement la demarche, et participer aux travaux du groupe des codeurs sociaux.
-Une attention sera portee a la possibilite de publication de la version qui sera 'poussee', sur le localhost (par WAMP donc sur la base de windows). 
+Le developpement de l'application se fera en "open source". Avec autant que possible la livraison de tutoriels pour accompagner pedagogiquement la demarche, et participer aux travaux du groupe des codeurs sociaux.
+Une attention sera portee a la possibilite de publication de la version 'poussee'. On verifiera sur le localhost (par WAMP donc sur la base de windows) qu'on a pas de message d'erreur. 
 
 
 PROCEDURE D'INSTALLATION :
@@ -55,14 +55,14 @@ En cliquant sur "Prix et inscription"
 Puis "Creer un compte gratuit"
 Et suivre les indications d'identification.
 
-b/ Une fois le compte cree
-a cote de : Vos depots (0)
+b/ Une fois le compte declare
+sur la droite de : Vos depots (0)
 Cliquer sur "Nouveau depot".
 Suivre les indications du depot.
 
 c/Installer la derniere version de msysgit a la page:
 http://code.google.com/p/msysgit/downloads/list/
-Lors de l'installation cliquer sur les options "git GUI here" et "git Bash here", de maniere a avoir ces commande sur le menu contextuel (clic droit) des repertoires.
+Lors de l'installation cliquer sur les options "git GUI here" et "git Bash here", de maniere a avoir ces commandes sur le menu contextuel (clic droit) des repertoires.
 
 2/ Les repertoires de la "sandbox" de Symfony2 seront mis dans le repertoire correspondant a l'application : "Arbre_Raphael_VANSEBROUCK"
 

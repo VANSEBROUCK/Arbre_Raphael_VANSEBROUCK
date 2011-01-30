@@ -17,6 +17,11 @@ twig.config:
     debug:            %kernel.debug%
     strict_variables: %kernel.debug%
 
+# to enable the twig view helper
+menu.twig:   ~
+# to enable the PHP view helper
+menu.templating: ~
+
 ## Doctrine Configuration
 #doctrine.dbal:
 #    dbname:   xxxxxxxx

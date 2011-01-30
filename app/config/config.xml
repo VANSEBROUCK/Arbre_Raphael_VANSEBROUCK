@@ -27,6 +27,11 @@
     <!-- Twig Configuration -->
     <twig:config debug="%kernel.debug%" strict-variables="%kernel.debug%" cache-warmer="true" />
 
+	<!-- to enable the twig view helper -->
+	<menu:twig />
+	<!-- to enable the PHP view helper -->
+	<menu:templating />
+
     <!-- Doctrine Configuration -->
     <!--
     <doctrine:dbal dbname="xxxxxxxx" user="xxxxxxxx" password="" logging="%kernel.debug%" />
