@@ -5,6 +5,10 @@
         <title>{% block title %}Hello Application{% endblock %}</title>
     </head>
     <body>
-        {% block body %}{% endblock %}
+        {% block body %}
+            <nav id="main">
+                {{ menu('main') }}
+            </nav>		
+		{% endblock %}
     </body>
 </html>
